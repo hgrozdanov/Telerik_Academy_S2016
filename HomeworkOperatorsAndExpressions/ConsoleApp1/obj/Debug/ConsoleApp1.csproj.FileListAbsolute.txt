@@ -1,0 +1,7 @@
+C:\Users\hg\source\repos\HomeworkOperatorsAndExpressions\ConsoleApp1\bin\Debug\EvenOrOdd.exe.config
+C:\Users\hg\source\repos\HomeworkOperatorsAndExpressions\ConsoleApp1\bin\Debug\EvenOrOdd.exe
+C:\Users\hg\source\repos\HomeworkOperatorsAndExpressions\ConsoleApp1\bin\Debug\EvenOrOdd.pdb
+C:\Users\hg\source\repos\HomeworkOperatorsAndExpressions\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\hg\source\repos\HomeworkOperatorsAndExpressions\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\HomeworkOperatorsAndExpressions\ConsoleApp1\obj\Debug\EvenOrOdd.exe
+C:\Users\hg\source\repos\HomeworkOperatorsAndExpressions\ConsoleApp1\obj\Debug\EvenOrOdd.pdb

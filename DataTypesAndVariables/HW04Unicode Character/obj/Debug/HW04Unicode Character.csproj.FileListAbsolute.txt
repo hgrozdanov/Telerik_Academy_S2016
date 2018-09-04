@@ -1,0 +1,7 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\HW04Unicode Character\bin\Debug\HW04Unicode Character.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\HW04Unicode Character\bin\Debug\HW04Unicode Character.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW04Unicode Character\bin\Debug\HW04Unicode Character.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\HW04Unicode Character\obj\Debug\HW04Unicode Character.csprojAssemblyReference.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW04Unicode Character\obj\Debug\HW04Unicode Character.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW04Unicode Character\obj\Debug\HW04Unicode Character.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW04Unicode Character\obj\Debug\HW04Unicode Character.pdb

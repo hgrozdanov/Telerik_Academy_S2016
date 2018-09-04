@@ -1,0 +1,6 @@
+C:\Users\hg\source\repos\HelloCSharp\SayHello\bin\Debug\SayHello.exe.config
+C:\Users\hg\source\repos\HelloCSharp\SayHello\bin\Debug\SayHello.exe
+C:\Users\hg\source\repos\HelloCSharp\SayHello\bin\Debug\SayHello.pdb
+C:\Users\hg\source\repos\HelloCSharp\SayHello\obj\Debug\SayHello.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\HelloCSharp\SayHello\obj\Debug\SayHello.exe
+C:\Users\hg\source\repos\HelloCSharp\SayHello\obj\Debug\SayHello.pdb

@@ -1,0 +1,6 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\HW05Boolean Variable\obj\Debug\HW05Boolean Variable.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW05Boolean Variable\bin\Debug\HW05Boolean Variable.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\HW05Boolean Variable\bin\Debug\HW05Boolean Variable.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW05Boolean Variable\bin\Debug\HW05Boolean Variable.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\HW05Boolean Variable\obj\Debug\HW05Boolean Variable.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW05Boolean Variable\obj\Debug\HW05Boolean Variable.pdb

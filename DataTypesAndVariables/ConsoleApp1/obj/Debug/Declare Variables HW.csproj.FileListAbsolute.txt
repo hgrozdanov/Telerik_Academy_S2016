@@ -1,0 +1,6 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp1\obj\Debug\Declare Variables HW.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
