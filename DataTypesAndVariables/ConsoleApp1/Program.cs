@@ -18,8 +18,6 @@ namespace ConsoleApp1
             Console.WriteLine(Byte);
             Console.WriteLine(Short);
 
-
-
             byte centuries = 20;    // Usually a small number
             ushort years = 2000;
             uint days = 730480;

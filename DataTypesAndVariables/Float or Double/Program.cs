@@ -6,10 +6,12 @@ namespace Float_or_Double
     {
         static void Main()
         {
-            double floatMy = 12.345;
-            double anotherFloatMy = 3456.091;
+            double floatMy = 12.345f;
+            double anotherFloatMy = 3456.091f;
+
             double doubleMy = 34.567839023;
             double anotherDoubleMy = 8923.1234857;
+
 
             Console.WriteLine("Float PI is: {0}", floatMy);
             Console.WriteLine("Float PI is: {0}", anotherFloatMy);
