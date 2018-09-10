@@ -1,0 +1,7 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\HW10Employee Data\bin\Debug\HW10Employee Data.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\HW10Employee Data\bin\Debug\HW10Employee Data.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW10Employee Data\bin\Debug\HW10Employee Data.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\HW10Employee Data\obj\Debug\HW10Employee Data.csprojAssemblyReference.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW10Employee Data\obj\Debug\HW10Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW10Employee Data\obj\Debug\HW10Employee Data.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW10Employee Data\obj\Debug\HW10Employee Data.pdb

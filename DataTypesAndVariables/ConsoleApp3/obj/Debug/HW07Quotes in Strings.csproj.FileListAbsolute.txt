@@ -1,0 +1,6 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp3\obj\Debug\HW07Quotes in Strings.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

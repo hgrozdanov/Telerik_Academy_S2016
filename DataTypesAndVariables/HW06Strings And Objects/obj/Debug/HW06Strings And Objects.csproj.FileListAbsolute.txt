@@ -1,0 +1,6 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\HW06Strings And Objects\bin\Debug\HW06Strings And Objects.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\HW06Strings And Objects\bin\Debug\HW06Strings And Objects.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW06Strings And Objects\bin\Debug\HW06Strings And Objects.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\HW06Strings And Objects\obj\Debug\HW06Strings And Objects.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW06Strings And Objects\obj\Debug\HW06Strings And Objects.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW06Strings And Objects\obj\Debug\HW06Strings And Objects.pdb

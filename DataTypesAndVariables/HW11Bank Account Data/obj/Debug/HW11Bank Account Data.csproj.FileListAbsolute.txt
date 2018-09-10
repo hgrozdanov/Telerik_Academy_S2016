@@ -1,0 +1,6 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\HW11Bank Account Data\obj\Debug\HW11Bank Account Data.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW11Bank Account Data\bin\Debug\HW11Bank Account Data.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\HW11Bank Account Data\bin\Debug\HW11Bank Account Data.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW11Bank Account Data\bin\Debug\HW11Bank Account Data.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\HW11Bank Account Data\obj\Debug\HW11Bank Account Data.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW11Bank Account Data\obj\Debug\HW11Bank Account Data.pdb

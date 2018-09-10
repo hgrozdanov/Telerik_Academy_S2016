@@ -1,0 +1,7 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\HW08Isosceles Triangle\bin\Debug\HW08Isosceles Triangle.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\HW08Isosceles Triangle\bin\Debug\HW08Isosceles Triangle.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW08Isosceles Triangle\bin\Debug\HW08Isosceles Triangle.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\HW08Isosceles Triangle\obj\Debug\HW08Isosceles Triangle.csprojAssemblyReference.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW08Isosceles Triangle\obj\Debug\HW08Isosceles Triangle.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW08Isosceles Triangle\obj\Debug\HW08Isosceles Triangle.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW08Isosceles Triangle\obj\Debug\HW08Isosceles Triangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\00Employee Data test\bin\Debug\00Employee Data test.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\00Employee Data test\bin\Debug\00Employee Data test.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\00Employee Data test\bin\Debug\00Employee Data test.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\00Employee Data test\obj\Debug\00Employee Data test.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\00Employee Data test\obj\Debug\00Employee Data test.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\00Employee Data test\obj\Debug\00Employee Data test.pdb

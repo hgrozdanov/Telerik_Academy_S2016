@@ -1,0 +1,7 @@
+C:\Users\hg\source\repos\DataTypesAndVariables\HW09Exchange Variable Values\obj\Debug\HW09Exchange Variable Values.csprojAssemblyReference.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW09Exchange Variable Values\obj\Debug\HW09Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\hg\source\repos\DataTypesAndVariables\HW09Exchange Variable Values\bin\Debug\HW09Exchange Variable Values.exe.config
+C:\Users\hg\source\repos\DataTypesAndVariables\HW09Exchange Variable Values\bin\Debug\HW09Exchange Variable Values.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW09Exchange Variable Values\bin\Debug\HW09Exchange Variable Values.pdb
+C:\Users\hg\source\repos\DataTypesAndVariables\HW09Exchange Variable Values\obj\Debug\HW09Exchange Variable Values.exe
+C:\Users\hg\source\repos\DataTypesAndVariables\HW09Exchange Variable Values\obj\Debug\HW09Exchange Variable Values.pdb
